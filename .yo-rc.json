@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Trioxis",
+      "authorEmail": "hello@trioxis.com",
+      "authorUrl": "http://trioxis.com"
+    }
+  }
+}
