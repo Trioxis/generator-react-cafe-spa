@@ -7,7 +7,7 @@ import Body from '../Body';
 class App extends Component {
   render() {
     return (
-      <CMSProvider website='example-spa'>
+      <CMSProvider website='<%= cafeWebsiteName %>'>
         <div>
           <Hero />
           <Body />
