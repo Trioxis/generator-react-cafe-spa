@@ -22,6 +22,8 @@ npm install -g @trioxis/generator-react-cafe-spa
 Then generate your new project:
 
 ```bash
+mkdir ./my-cafe-project
+cd ./my-cafe-project
 yo @trioxis/react-cafe-spa
 ```
 
